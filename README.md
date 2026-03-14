@@ -133,8 +133,8 @@ No. Start with one root router and one domain. Add more as you go. The system wo
 
 ## Credits
 
-Built by Virgil Brewster and Victor at [Sucana](https://sucana.ai).
-Framework architecture by Victor.
+Built by Virgil Brewster and Victor Chasaraz at [Sucana](https://sucana.ai).
+Framework architecture by Victor Chasaraz.
 
 ## License
 
