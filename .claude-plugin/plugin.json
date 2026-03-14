@@ -1,0 +1,9 @@
+{
+  "name": "context-routing",
+  "version": "1.0.0",
+  "description": "Turn any folder into a self-routing AI workspace. CLAUDE.md routers direct AI to load only what's needed for each task. Includes folder architect, drive hygiene, rule auditing, and the full context routing framework.",
+  "author": {
+    "name": "Virgil Brewster & Victor — Sucana"
+  },
+  "keywords": ["context-routing", "folder-structure", "ai-workspace", "routing", "claude-code", "organization"]
+}
