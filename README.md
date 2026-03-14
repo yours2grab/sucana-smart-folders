@@ -1,4 +1,4 @@
-# Context Routing Plugin
+# Sucana Smart Folders
 
 **Stop feeding AI everything. Start telling it where to look.**
 
@@ -8,9 +8,9 @@ If you use Claude Code with more than a handful of files, you've probably hit th
 
 You can't blame the AI. You gave it everything and hoped it would figure out what mattered.
 
-## What This Plugin Does
+## What Smart Folders Does
 
-Context Routing fixes this by adding a simple layer between your files and your AI: **routers**.
+Smart Folders fixes this by adding a simple layer between your files and your AI: **routers**.
 
 A router is a small file (under 80 lines) that says: "If the task is marketing, go read the marketing folder. If it's billing, go read admin. If it's a specific client, load their context first."
 
@@ -46,7 +46,7 @@ Each CLAUDE.md is a router. Each one is small. AI reads the root router, figures
 ## Installation
 
 ### Step 1: Download
-Grab the `context-routing.plugin` file from this repo (it's in the root).
+Grab the `sucana-smart-folders.plugin` file from this repo (it's in the root).
 
 ### Step 2: Place it
 Drop it in one of these locations:
