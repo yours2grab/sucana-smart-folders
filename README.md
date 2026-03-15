@@ -139,3 +139,13 @@ Framework architecture by Victor Chasaraz.
 ## License
 
 MIT
+
+---
+
+## The Lead — AI Workflows for Marketers
+
+Every Friday, one real AI workflow from inside our build. No theory. No hype. Just what worked, what flopped, and what we'd do differently.
+
+[Join The Lead →](https://sucana.ai/newsletter)
+
+Built by [Virgil Brewster](https://www.linkedin.com/in/virgilbrewster/) at [Sucana](https://sucana.ai)
